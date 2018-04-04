@@ -1,0 +1,2 @@
+# to enable wsgi module and restarting apache
+sudo a2enmod wsgi && sudo invoke-rc.d apache2 restart
